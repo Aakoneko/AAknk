@@ -15,9 +15,9 @@
 
 ### 🛠 Tech Stack
 
-💻   Python | Java | C | R
-🔢   MySQL | SQLite | Hadoop | Spark
-🔧   Tableau | Excel | PowerBI
+💻   Python | Java | C | R  
+🔢   MySQL | SQLite | Hadoop | Spark  
+🔧   Tableau | Excel | PowerBI  
 
 
 
