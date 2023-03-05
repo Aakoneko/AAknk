@@ -3,11 +3,9 @@
 
 - 🏫 I'm currently a undergraduate student in New York University.
 
-- 💻 Major: Data Science & Computer Science
+- 📄 Major: Data Science & Computer Science
 
-- 📫 How to reach me:
-
-  📩 Email:  zl3468@nyu.edu,
+- 🎐 Email:  zl3468@nyu.edu,
              agnesli0704@gmail.com
 
 <!-- - 📊 Stats: ![Kunyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaknk&count_private=true&show_icons=true&theme=highcontrast) -->
