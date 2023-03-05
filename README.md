@@ -8,5 +8,16 @@
 - 🐈 Extreme cat lover
 
 - 🎐 Email: agnesli0704@gmail.com
+  
+   
+  
+  
+  
+### 🛠 Tech Stack
+
+💻   Python | Java | C | R
+🔢   MySQL | SQLite | Hadoop | Spark
+🔧   Tableau | Excel | PowerBI
+
 
 
