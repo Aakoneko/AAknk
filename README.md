@@ -3,7 +3,7 @@
 
 - 🏫 I'm currently a undergraduate student in New York University.
 
-- 📄 Major: Data Science & Computer Science
+- 💻 Major: Data Science & Computer Science
 
 - 🎐 Email:  zl3468@nyu.edu,
              agnesli0704@gmail.com
