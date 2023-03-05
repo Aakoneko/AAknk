@@ -7,8 +7,6 @@
 - 🎐 Email: agnesli0704@gmail.com  
   
 <br />
-<br />
-<br />
 
 ### 🛠 Tech Stack
 
