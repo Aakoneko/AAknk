@@ -5,7 +5,7 @@
 
 - 💞️ Looking for a data science / business analyst intern
 
-- 🐈 extreme cat lover
+- 🐈 Extreme cat lover
 
 - 🎐 Email: agnesli0704@gmail.com
 
