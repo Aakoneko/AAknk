@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm Agnes Li.
 
-- 🏫 I'm currently a undergraduate student in New York University.
+- 🎒 I'm currently a undergraduate student in New York University.
 
 - 💻 Major: Data Science & Computer Science
 
