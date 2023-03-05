@@ -1,13 +1,12 @@
 
-### Hi there 👋, I'm Kunyang (Kyrie) Xie
+### Hi there 👋, I'm Agnes Li
 
-- 🏫 I'm currently a master student in University of Waterloo
+- 🏫 I'm currently a undergraduate student in New York University
 
 - 📫 How to reach me:
 
-  🌐 Website: [Kunyang's Blog](https://kyxie.github.io/en/)
-
-  📩 Email: k47xie@uwaterloo.ca, kyriexie@outlook.com
+  📩 Email: zl3468@nyu.edu
+            agnesli0704@gmail.com
 
 <!-- - 📊 Stats: ![Kunyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxie&count_private=true&show_icons=true&theme=highcontrast) -->
 
