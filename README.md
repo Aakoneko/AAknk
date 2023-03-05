@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Agnes Li
+### Hi there 👋, I'm Agnes Li.
 
 - 🏫 I'm currently a undergraduate student in New York University.
 
